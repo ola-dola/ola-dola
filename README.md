@@ -18,5 +18,5 @@
 
 💻 I currently code mainly in **Javascricpt(React, Node.js, Express, PostgresSql) and Python**, and still learning more.
 
-Take a look around to see my work, then shoot me a mail 🙂
+Take a look around to see my work, then shoot me a mail at oredolaolamide[@]gmail[dot]com 🙂
 
