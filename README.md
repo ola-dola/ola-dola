@@ -14,6 +14,7 @@
  I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote and limited onsite(Nigeria)).
  
 🔭 I’m currently working on a [city bus booking app](https://github.com/PickMe-Bus) in collaboration with a friend.
+
 🌱 I’ve been learning about Data Structures and Algorithms the past couple of weeks. A lot of fun and tears 😎
 
 💻 I currently code mainly in **Javascricpt(React, Node.js, Express, PostgresSql) and Python**, and still learning more.
