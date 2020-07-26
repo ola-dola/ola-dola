@@ -11,7 +11,7 @@
 -->
 
 👨🏾‍🔬 I'm a **software engineer** based in Nigeria. 
- I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote and limited onsite(Nigeria)).
+ I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote or limited onsite(Nigeria)).
  
 🔭 I’m currently working on a [city bus booking app](https://github.com/PickMe-Bus) in collaboration with a friend.
 
