@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ola, nice to meet you 🤝
 
 <!--
 **ola-dola/ola-dola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨🏾‍🔬 I'm a **software engineer** based in Nigeria. 
+ I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote and limited onsite(Nigeria)).
+
+💻 I currently code mainly in **Javascricpt(React, Node.js, Express, PostgresSql) and Python**, and still learning more.
+
+Take a look around to see my work, then shoot me a mail 🙂
+
