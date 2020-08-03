@@ -17,7 +17,7 @@
 
 🌱 I’ve been learning about Data Structures and Algorithms the past couple of weeks. A lot of fun and tears 😎
 
-💻 I currently code mainly in **Javascricpt(React, Node.js, Express, PostgresSql)** and dabble in Python(💙) scripting.
+💻 I currently code mainly in **Javascript(React, Node.js, Express, PostgreSql)** and dabble in Python(💙) scripting.
 
 Take a look around to see my work, then shoot me a mail at oredolaolamide[@]gmail[dot]com 🙂
 
