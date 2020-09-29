@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ola, nice to meet you 🤝
+### Hi there 👋 I'm Olamide, nice to meet you 🤝
 
 <!--
 **ola-dola/ola-dola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
