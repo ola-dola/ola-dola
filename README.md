@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Olamide, nice to meet you 🤝
-
+### Hi there, I'm Olamide.
 <!--
 **ola-dola/ola-dola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,13 +10,9 @@
 -->
 
 👨🏾‍🔬 I'm a **software engineer** based in Nigeria. 
- I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote or limited onsite(Nigeria)).
- 
-🔭 I’m currently working on a [city bus booking app](https://github.com/PickMe-Bus) in collaboration with a friend.
-
-🌱 I’ve been learning about Data Structures and Algorithms the past couple of weeks. A lot of fun and tears 😎
+ I'm currently looking for opportunities to build impactful and amazing software products with an amazing team(remote or anywhere in Nigeria).
 
 💻 I currently code mainly in **Javascript(React, Node.js, Express, PostgreSQL)** and dabble in Python(💙) scripting.
 
-Take a look around to see my work, then shoot me a mail at olami.oredola[@]gmail[dot]com 🙂
+- 📫 How to reach me: olami.oredola[@]gmail[dot]com 🙂
 
