@@ -14,5 +14,5 @@
 
 💻 I currently code mainly in **Javascript(React, Node.js, Express, PostgreSQL)** and dabble in Python(💙) scripting.
 
-- 📫 How to reach me: olami.oredola[@]gmail[dot]com 🙂
+📫 How to reach me: olami.oredola[@]gmail[dot]com 🙂
 
